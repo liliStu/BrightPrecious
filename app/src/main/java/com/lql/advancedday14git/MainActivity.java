@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 /*
 *
-* 傻逼
+* 傻逼啊啊啊啊啊
 *
 * */
     @Override
